@@ -1,0 +1,1 @@
+{"type": "generator", "name": "DIPN2VGenerator", "pre_post_frame": 3, "pre_post_omission": 0, "train_path": "/projectnb2/rise2019/cl6/Voltage_Imaging/scripts/../datasets/2b.tif", "randomize": false, "batch_size": 4, "steps_per_epoch": -1, "blind_pixel_ratio": 0.1, "blind_pixel_method": "replace", "cell_mask_path": null}
