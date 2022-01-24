@@ -6,9 +6,13 @@ Platisa, J., Ye, X., Ahrens, A. M., Liu, C., Chen, I. A., Davison, I. G., ... & 
 
 https://www.biorxiv.org/content/10.1101/2021.12.07.471668v1
 
-![DeepVID](assets/DeepVID_structure.png "DeepVID")
+![DeepVID structure](assets/DeepVID_structure.png "DeepVID structure")
 
-**Figure:** Training strategy and network structure of DeepVID. 
+**Figure 1.** Training strategy and network structure of DeepVID. 
+
+![DeepVID representative image](assets/DeepVID_representative_image.png "DeepVID representative image")
+
+**Figure 2.** Example of single frame image denoising with DeepVID. 
 
 ## System Requirements
 
